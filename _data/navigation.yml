@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Futsal
+  url: /futsal/
+
+
+- title: Search
+  url: /search/

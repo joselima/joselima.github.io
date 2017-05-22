@@ -1,0 +1,47 @@
+# Site wide configuration
+
+title: Jose Lima
+locale: en_US
+description: Software Quality Coach (former Test Engineer) writing my thoughts, notes and comments on software testing and also Futsal.
+search: true
+url: https://joselima.github.io
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Jose Lima
+  avatar: Jose_Lima.jpg
+  email: me@joselima.co.uk
+  disqus-shortname: joseglima
+  twitter: joseglima
+  github: joselima
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: jose-lima-4958a021
+  google:
+    plus: 112385823572420009964
