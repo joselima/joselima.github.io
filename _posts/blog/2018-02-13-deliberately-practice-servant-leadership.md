@@ -13,8 +13,6 @@ comments: true
 share: true
 ---
 
-[This blog post was also posted on Redgate's Ingeniously Simple [blog](https://medium.com/ingeniouslysimple/deliberately-practice-servant-leadership-and-why-its-hard-8bd0e312803d)]
-
 Around 6 months ago, Dan North visited Redgate and spoke to us about this idea of servant leadership and a few stories surrounding it. It all made perfect sense, it all resonated with how we believed we should lead and treat people but it was quite easy to find examples of times when we weren’t doing that so well. Read on if you would like some insight about a time where it didn’t go so well and how we managed to eventually figure out why!
 
 So the first step many of us took was to read “Turn the ship around!” by David Marquet which tells us the story of how leadership changed in a US Navy ship based around the concept of servant leadership.
@@ -44,3 +42,5 @@ So after chatting through those constraints and goals/aims I was actually quite 
 By being explicit about those two points can get you a long way, and I think disagreeing and committing is actually a really healthy situation amongst teams — we all have different views of the world but we can’t just forever discuss about how to best move forward: sometimes it’s just better to try and see how it goes.
 
 We are still in the early days of this but we are seeing some results mostly around the way we shape conversations and also the way we delegate or let people take charge on certain initiatives. Being deliberate about goals and constraints and actively calling out when someone or something isn’t living up to our expectations of servant leadership has helped us identify where we can improve and how we can be better servant leaders around Redgate.
+
+[This blog post was also posted on Redgate's Ingeniously Simple [blog](https://medium.com/ingeniouslysimple/deliberately-practice-servant-leadership-and-why-its-hard-8bd0e312803d)]
