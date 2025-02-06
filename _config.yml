@@ -2,7 +2,7 @@
 
 title: Jose Lima
 locale: en_US
-description: Senior Engineering Manager at Redgate Software writing my thoughts, notes and comments on software and the occasional Futsal post.
+description: Senior Engineering Manager at Redgate Software writing my thoughts, notes and comments on software engineering (and the occasional futsal, sports and dog training post).
 search: true
 url: https://joselima.github.io
 
@@ -39,7 +39,7 @@ owner:
   avatar: Jose_Lima.jpg
   email: me@joselima.co.uk
   disqus-shortname: joseglima
-  twitter: joseglima
+  twitter: #joseglima
   github: joselima
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: jose-lima-4958a021
