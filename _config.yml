@@ -37,9 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Jose Lima
   avatar: Jose_Lima.jpg
-  email: me@joselima.co.uk
   disqus-shortname: joseglima
-  twitter: #joseglima
   github: joselima
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: jose-lima-4958a021
